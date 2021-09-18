@@ -1,0 +1,11 @@
+C:\Users\Korab\source\repos\MenaxherRestauranti\MenaxherRestauranti.BLL\bin\Debug\MenaxherRestauranti.BLL.dll
+C:\Users\Korab\source\repos\MenaxherRestauranti\MenaxherRestauranti.BLL\bin\Debug\MenaxherRestauranti.BLL.pdb
+C:\Users\Korab\source\repos\MenaxherRestauranti\MenaxherRestauranti.BLL\bin\Debug\MenaxherRestauranti.BO.dll
+C:\Users\Korab\source\repos\MenaxherRestauranti\MenaxherRestauranti.BLL\bin\Debug\MenaxherRestauranti.DAL.dll
+C:\Users\Korab\source\repos\MenaxherRestauranti\MenaxherRestauranti.BLL\bin\Debug\MenaxherRestauranti.BO.pdb
+C:\Users\Korab\source\repos\MenaxherRestauranti\MenaxherRestauranti.BLL\bin\Debug\MenaxherRestauranti.DAL.pdb
+C:\Users\Korab\source\repos\MenaxherRestauranti\MenaxherRestauranti.BLL\obj\Debug\MenaxherRestauranti.BLL.csprojAssemblyReference.cache
+C:\Users\Korab\source\repos\MenaxherRestauranti\MenaxherRestauranti.BLL\obj\Debug\MenaxherRestauranti.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Korab\source\repos\MenaxherRestauranti\MenaxherRestauranti.BLL\obj\Debug\MenaxherRestauranti.BLL.csproj.CopyComplete
+C:\Users\Korab\source\repos\MenaxherRestauranti\MenaxherRestauranti.BLL\obj\Debug\MenaxherRestauranti.BLL.dll
+C:\Users\Korab\source\repos\MenaxherRestauranti\MenaxherRestauranti.BLL\obj\Debug\MenaxherRestauranti.BLL.pdb

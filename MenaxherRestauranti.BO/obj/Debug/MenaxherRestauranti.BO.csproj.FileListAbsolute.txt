@@ -1,0 +1,6 @@
+C:\Users\Korab\source\repos\MenaxherRestauranti\MenaxherRestauranti.BO\bin\Debug\MenaxherRestauranti.BO.dll
+C:\Users\Korab\source\repos\MenaxherRestauranti\MenaxherRestauranti.BO\bin\Debug\MenaxherRestauranti.BO.pdb
+C:\Users\Korab\source\repos\MenaxherRestauranti\MenaxherRestauranti.BO\obj\Debug\MenaxherRestauranti.BO.csproj.CoreCompileInputs.cache
+C:\Users\Korab\source\repos\MenaxherRestauranti\MenaxherRestauranti.BO\obj\Debug\MenaxherRestauranti.BO.dll
+C:\Users\Korab\source\repos\MenaxherRestauranti\MenaxherRestauranti.BO\obj\Debug\MenaxherRestauranti.BO.pdb
+C:\Users\Korab\source\repos\MenaxherRestauranti\MenaxherRestauranti.BO\obj\Debug\MenaxherRestauranti.BO.csprojAssemblyReference.cache
